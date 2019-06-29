@@ -1,9 +1,9 @@
 # learning-english
-[![GitHub issues](https://img.shields.io/github/issues/yangwenmai/learning-english.svg?label=Issue)](https://github.com/yangwenmai/learning-english/issues) [![license](https://img.shields.io/github/license/yangwenmai/learning-english.svg)](https://github.com/yangwenmai/learning-english/blob/master/LICENSE) [![star this repo](http://githubbadges.com/star.svg?user=yangwenmai&repo=learning-english)](http://github.com/yangwenmai/learning-english) [![fork this repo](http://githubbadges.com/fork.svg?user=yangwenmai&repo=learning-english)](http://github.com/yangwenmai/learning-english/fork)
+[![GitHub issues](https://img.shields.io/github/issues/developer-learning/learning-english.svg?label=Issue)](https://github.com/developer-learning/learning-english/issues) [![license](https://img.shields.io/github/license/developer-learning/learning-english.svg)](https://github.com/developer-learning/learning-english/blob/master/LICENSE) [![star this repo](http://githubbadges.com/star.svg?user=developer-learning&repo=learning-english)](http://github.com/developer-learning/learning-english) [![fork this repo](http://githubbadges.com/fork.svg?user=developer-learning&repo=learning-english)](http://github.com/developer-learning/learning-english/fork)
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starcharts.herokuapp.com/yangwenmai/learning-english.svg)](https://starcharts.herokuapp.com/yangwenmai/learning-english)
+[![Stargazers over time](https://starcharts.herokuapp.com/developer-learning/learning-english.svg)](https://starcharts.herokuapp.com/developer-learning/learning-english)
 
 ## 我想说的
 
