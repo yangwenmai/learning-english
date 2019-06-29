@@ -18,109 +18,11 @@
 
 课堂精讲和答疑是在每周一到周五晚上 19 点，我会在当天将我所学的部分做好总结。
 
-### 第一周
-
-- Unit 1 Part 1 精讲 1 之 英语学习攻略
-
->2019-06-10 19:00:00
-
-本节课主要是英语课堂的教学课程介绍，涉及发音、词汇、语法、背景文化等。
-
-- 答疑课 01 英语学习攻略
-
->2019-06-11 19:00:00
-
-先完成，再完美！
-先完成，再完美！
-先完成，再完美！
->重要的事情说三遍！！！
->保证进度再刷星星✨
-
-“习惯（坚持）”+“答疑”=成功！
-
-- Unit 1 Part 1 精讲 2 之 Daily Actions & What's Your Name?
-
->2019-06-12 19:00:00
-
-- 答疑课 02 详解英语中的咬舌音
-
->2019-06-13 19:00:00
-
-Thanks 和 The 的发音
-
-th 的发音（注意 th 的两种不同发音和 s 的发音区别）
-- θ: 舌尖轻触上齿背部，气流从舌齿缝隙中送出，θ 是清辅音，声带不震动
-- 舌尖轻触上齿背部，气流从舌齿缝隙送出， 是浊辅音，声带要震动
-
-两者的区别是：声带是否震动。
-
-- 专题课 01 我们为什么要学语法
-
->2019-06-14 19:00:00
-
-<img src="https://raw.githubusercontent.com/developer-learning/learning-english/master/images/语法综述.jpg" width="400px;"/>
-
-## 第二周
-
-- Unit 1 Part 2 精讲 1 之 People & Countries & Daily Objects
-
->2019-06-17 19:00:00
-
-- 答疑课 03 /i:/, /I/, /i/ 与音节&重音
-
->2019-06-18 19:00:00
-
-<img src="https://raw.githubusercontent.com/developer-learning/learning-english/master/images/元音与音节重音.jpg" width="400px;"/>
-
-- Unit 1 Part 2 精讲 2
-
->2019-06-19 19:00:00
-
-待补充
-
-- 答疑课 04 原音 /u:/ 与 /u/
-
->2019-06-20 19:00:00
-
-<img src="https://raw.githubusercontent.com/developer-learning/learning-english/master/images/u的发音.jpg" width="400px;"/>
-
-- 专题课 02 走进语法，从名词开始
-
->2019-06-21 19:00:00
-
-<img src="https://raw.githubusercontent.com/developer-learning/learning-english/master/images/名词.jpg" width="400px;"/>
-
-### 第三周
-
-- Unit 1 Part 3 精讲 1
-
->2019-06-24 19:00:00
-
-待补充
-
-- 答疑课 05 原音 /e/,/eI/ 及闪音 /t/
-
->2019-06-25 19:00:00
-
-<img src="https://raw.githubusercontent.com/developer-learning/learning-english/master/images/元音与闪音.jpg" width="400px;"/>
-
-- Unit 1 Part 3 精讲 2
-
->2019-06-26 19:00:00
-
-待补充
-
-- 答疑课 06 整十数及 river 的读法
-
->2019-06-27 19:00:00
-
-<img src="https://raw.githubusercontent.com/developer-learning/learning-english/master/images/整十数与river的读法.jpg" width="400px;"/>
-
-- 专项课 03 动词：句子的发动机
-
->2019-06-28 19:00:00
-
-<img src="https://raw.githubusercontent.com/developer-learning/learning-english/master/images/动词.jpg" width="400px;"/>
+| 周数 | 课程 | 课程 | 课程 | 课程 | 课程 |
+|:----:|:----:|:----:|:----:|:----:|:----:|
+| 第一周 | [Unit 1 Part 1 精讲 1 之 英语学习攻略](./lessons/lesson1.md) | [答疑课 01 英语学习攻略](./lessons/lesson2.md) | [Unit 1 Part 1 精讲 2 之 Daily Actions & What's Your Name?](./lessons/lesson3.md) | [答疑课 02 详解英语中的咬舌音](./lessons/lesson4.md) | [专题课 01 我们为什么要学语法](./lessons/lesson5.md) |
+| 第二周 | [Unit 1 Part 2 精讲 1 之 People & Countries & Daily Objects](./lessons/lesson6.md) | [答疑课 03 /i:/, /I/, /i/ 与音节&](./lessons/lesson7.md) | [Unit 1 Part 2 精讲 2](./lessons/lesson8.md) | [答疑课 04 原音 /u:/ 与 /u/](./lessons/lesson9.md) | [专题课 02 走进语法，从名词开始](./lessons/lesson10.md) |
+| 第三周 | [Unit 1 Part 3 精讲 1](./lessons/lesson11.md) | [答疑课 05 原音 /e/,/eI/ 及闪音 /t/](./lessons/lesson12.md) | [Unit 1 Part 3 精讲 2](./lessons/lesson13.md) | [答疑课 06 整十数及 river 的读法](./lessons/lesson14.md) | [专项课 03 动词：句子的发动机](./lessons/lesson15.md) |
 
 ## 程序员常见英语词汇
 
@@ -148,8 +50,8 @@ th 的发音（注意 th 的两种不同发音和 s 的发音区别）
 ## 如何参与贡献？
 
 ```sh
-├── images    // 图片资源
-├── README.md // 项目文档：懂你英语学习笔记、程序员常见英语词汇
+├── lessons    // 课程目录
+├── README.md  // 项目文档：懂你英语学习笔记、程序员常见英语词汇
 ```
 
 - [如何参与贡献](https://github.com/developer-learning/learning-english/blob/master/CONTRIBUTING.md)
