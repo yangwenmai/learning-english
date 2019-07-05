@@ -20,9 +20,12 @@
 
 | 周数 | 课程 | 课程 | 课程 | 课程 | 课程 |
 |:----:|:----:|:----:|:----:|:----:|:----:|
-| 第一周 | [Unit 1 Part 1 精讲 1 之 英语学习攻略](./lessons/lesson1.md) | [答疑课 01 英语学习攻略](./lessons/lesson2.md) | [Unit 1 Part 1 精讲 2 之 Daily Actions & What's Your Name?](./lessons/lesson3.md) | [答疑课 02 详解英语中的咬舌音](./lessons/lesson4.md) | [专题课 01 我们为什么要学语法](./lessons/lesson5.md) |
-| 第二周 | [Unit 1 Part 2 精讲 1 之 People & Countries & Daily Objects](./lessons/lesson6.md) | [答疑课 03 /i:/, /I/, /i/ 与音节&](./lessons/lesson7.md) | [Unit 1 Part 2 精讲 2](./lessons/lesson8.md) | [答疑课 04 原音 /u:/ 与 /u/](./lessons/lesson9.md) | [专题课 02 走进语法，从名词开始](./lessons/lesson10.md) |
-| 第三周 | [Unit 1 Part 3 精讲 1](./lessons/lesson11.md) | [答疑课 05 原音 /e/,/eI/ 及闪音 /t/](./lessons/lesson12.md) | [Unit 1 Part 3 精讲 2](./lessons/lesson13.md) | [答疑课 06 整十数及 river 的读法](./lessons/lesson14.md) | [专项课 03 动词：句子的发动机](./lessons/lesson15.md) |
+| 第一周（2019-06-10~2019-06-14） | [Unit 1 Part 1 精讲 1 之 英语学习攻略](./lessons/lesson1.md) | [答疑课 01 英语学习攻略](./lessons/lesson2.md) | [Unit 1 Part 1 精讲 2 之 Daily Actions & What's Your Name?](./lessons/lesson3.md) | [答疑课 02 详解英语中的咬舌音](./lessons/lesson4.md) | [专题课 01 我们为什么要学语法](./lessons/lesson5.md) |
+| 第二周（2019-06-17~2019-06-21） | [Unit 1 Part 2 精讲 1 之 People & Countries & Daily Objects](./lessons/lesson6.md) | [答疑课 03 /i:/, /I/, /i/ 与音节&](./lessons/lesson7.md) | [Unit 1 Part 2 精讲 2](./lessons/lesson8.md) | [答疑课 04 原音 /u:/ 与 /u/](./lessons/lesson9.md) | [专题课 02 走进语法，从名词开始](./lessons/lesson10.md) |
+| 第三周（2019-06-24~2019-06-28） | [Unit 1 Part 3 精讲 1](./lessons/lesson11.md) | [答疑课 05 原音 /e/,/eI/ 及闪音 /t/](./lessons/lesson12.md) | [Unit 1 Part 3 精讲 2](./lessons/lesson13.md) | [答疑课 06 整十数及 river 的读法](./lessons/lesson14.md) | [专项课 03 动词：句子的发动机](./lessons/lesson15.md) |
+| 第四周（2019-07-01~2019-07-05） | [Unit 1 Part 4 精讲 1](./lessons/lesson16.md) | [答疑课 06 跟着 Robin 周游世界](./lessons/lesson17.md) | [Unit 1 Part 4 精讲 2](./lessons/lesson18.md) | [答疑课 07 如何读好 twelve years old](./lessons/lesson19.md) | [专项课 04 ?](./lessons/lesson20.md) |
+
+
 
 ## 程序员常见英语词汇
 
