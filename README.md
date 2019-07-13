@@ -51,6 +51,7 @@
 | influence ||影响|||
 | innovate ||创新|||
 | brilliant ||辉煌|||
+| appropriate || 适当 |||
 
 
 这部分刚刚开始，需要慢慢积累。
