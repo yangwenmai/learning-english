@@ -25,7 +25,7 @@
 | 第三周（2019-06-24~2019-06-28） | [Unit 1 Part 3 精讲 1](./lessons/lesson11.md) | [答疑课 05 原音 /e/,/eI/ 及闪音 /t/](./lessons/lesson12.md) | [Unit 1 Part 3 精讲 2](./lessons/lesson13.md) | [答疑课 06 整十数及 river 的读法](./lessons/lesson14.md) | [专项课 03 动词：句子的发动机](./lessons/lesson15.md) |
 | 第四周（2019-07-01~2019-07-05） | [Unit 1 Part 4 精讲 1](./lessons/lesson16.md) | [答疑课 06 跟着 Robin 周游世界](./lessons/lesson17.md) | [Unit 1 Part 4 精讲 2](./lessons/lesson18.md) | [答疑课 07 如何读好 twelve years old](./lessons/lesson19.md) | [专项课 04 形容词：让世界更多彩](./lessons/lesson20.md) |
 | 第五周（2019-07-08~2019-07-12） | [Unit 1 Part 5 精讲 1](./lessons/lesson21.md) | [答疑课 08 为何 from 总是读不准](./lessons/lesson22.md) | [Unit 1 Part 5 精讲 2](./lessons/lesson23.md) | [答疑课 09 爆破音与失去爆破](./lessons/lesson24.md) | [专项课 05 五大基本句型](./lessons/lesson25.md) |
-| 第六周（2019-07-15~2019-07-19） | [Unit 2 Part 1 精讲 1](./lessons/lesson26.md) | [答疑课 10 聊聊兴趣cant 与 can 的发音](./lessons/lesson27.md) | [ ??? ](./lessons/lesson28.md) | [ ??? ](./lessons/lesson29.md) | [ ??? ](./lessons/lesson30.md) |
+| 第六周（2019-07-15~2019-07-19） | [Unit 2 Part 1 精讲 1](./lessons/lesson26.md) | [答疑课 10 聊聊兴趣cant 与 can 的发音](./lessons/lesson27.md) | [ 12. Unit 2 Part 1 精讲2 ](./lessons/lesson28.md) | [ 答疑课 11 初识人称代词 ](./lessons/lesson29.md) | [ 专项课 06 助动词：英语好助手 ](./lessons/lesson30.md) |
 
 
 
