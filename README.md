@@ -26,7 +26,9 @@
 | 第四周（2019-07-01~2019-07-05） | [Unit 1 Part 4 精讲 1](./lessons/lesson16.md) | [答疑课 06 跟着 Robin 周游世界](./lessons/lesson17.md) | [Unit 1 Part 4 精讲 2](./lessons/lesson18.md) | [答疑课 07 如何读好 twelve years old](./lessons/lesson19.md) | [专项课 04 形容词：让世界更多彩](./lessons/lesson20.md) |
 | 第五周（2019-07-08~2019-07-12） | [Unit 1 Part 5 精讲 1](./lessons/lesson21.md) | [答疑课 08 为何 from 总是读不准](./lessons/lesson22.md) | [Unit 1 Part 5 精讲 2](./lessons/lesson23.md) | [答疑课 09 爆破音与失去爆破](./lessons/lesson24.md) | [专项课 05 五大基本句型](./lessons/lesson25.md) |
 | 第六周（2019-07-15~2019-07-19） | [Unit 2 Part 1 精讲 1](./lessons/lesson26.md) | [答疑课 10 聊聊兴趣cant 与 can 的发音](./lessons/lesson27.md) | [ 12. Unit 2 Part 1 精讲2 ](./lessons/lesson28.md) | [ 答疑课 11 初识人称代词 ](./lessons/lesson29.md) | [ 专项课 06 助动词：英语好助手 ](./lessons/lesson30.md) |
-
+| 第七周（2019-07-22~2019-07-26） | [ 13. Unit 2 Part 2 精讲 1](./lessons/lesson31.md) | [答疑课 12 物主代词与反身代词](./lessons/lesson32.md) | [ 14. Unit 2 Part 2 精讲 2 ](./lessons/lesson33.md) | [ 答疑课 13 相同辅音的连读 ](./lessons/lesson34.md) | [ 专项课 07 介词如此多娇：时间介词 ](./lessons/lesson35.md) |
+| 第八周（2019-07-29~2019-08-02） | [ 15. Unit 2 Part 3 精讲 1](./lessons/lesson36.md) | [答疑课 14 合口双元音](./lessons/lesson37.md) | [ 16. Unit 2 Part 3 精讲 2 ](./lessons/lesson38.md) | [ 答疑课 15 合口双元音2 ](./lessons/lesson39.md) | [ 专项课 06 我“在”哪里见过你 ](./lessons/lesson40.md) |
+| 第九周（2019-08-05~2019-08-09） | [ 17. Unit 2 Part 4 精讲 1](./lessons/lesson41.md) | [答疑课 16 辅音/f/&/x?/ ](./lessons/lesson42.md) | [  ](./lessons/lesson43.md) | [  ](./lessons/lesson44.md) | [ 专项课 06 助动词：英语好助手 ](./lessons/lesson45.md) |
 
 
 ## 程序员常见英语词汇
